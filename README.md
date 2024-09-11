@@ -8,3 +8,4 @@ The project was one of the very first ones I started in my second year. The main
 scrape-missing.ipynb: scrape data from https://batdongsan.vn/ban-nha/
 house_final.csv: data extracted from scrape-missing.ipynb.
 final.ipynb: apply some algorithms to the data.
+
